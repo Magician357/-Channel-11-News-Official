@@ -10,3 +10,7 @@ we have news here!
 
 
 [About me (the best)](./about/Zachary.md)
+
+
+
+[Somebody (idk)](./about/Lance.md)
