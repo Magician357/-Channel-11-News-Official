@@ -18,4 +18,4 @@ i eaty spagtoy
 3. poop fart
 
 
-[Back](https://github.com/Magician357/-Channel-11-News-Official/blob/main/docs/about.md)
+[Back](https://magician357.github.io/-Channel-11-News-Official/about.html)
