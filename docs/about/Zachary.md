@@ -11,4 +11,4 @@ I am the current CEO of Channel 11 News. I am the one who wrote the contract and
 -Magic Man
 
 
-[Back](/docs/about.html)
+[Back](https://magician357.github.io/-Channel-11-News-Official/about.html)
